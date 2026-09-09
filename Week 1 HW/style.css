@@ -1,0 +1,20 @@
+
+.project_section {
+    width: 100%;
+}
+
+.heading {
+    color: brown;
+}
+
+.project_pics {
+    width: 33%;
+}
+
+.project_gif {
+    width: 48%
+}
+
+.project_text {
+    width: 48%
+}
