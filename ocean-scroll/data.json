@@ -1,0 +1,33 @@
+{
+  "animals": [
+    { "name": "Dwarf Seahorse",     "cruise_ms": 0.0004, "burst_ms": 0.0004, "confidence": "high",
+      "blurb": "The slowest fish on Earth. It covers about five feet in an hour." },
+
+    { "name": "Green Sea Turtle",   "cruise_ms": 0.6, "burst_ms": 2.8,  "confidence": "medium",
+      "blurb": "Unhurried and ancient, navigating by magnetic field." },
+
+    { "name": "Leatherback Turtle", "cruise_ms": 0.7, "burst_ms": 9.8,  "confidence": "medium",
+      "blurb": "Ambles across whole oceans, but the fastest reptile in the sea when it wants to be." },
+
+    { "name": "Whale Shark",        "cruise_ms": 0.9, "burst_ms": 4.2,  "confidence": "low",
+      "blurb": "The largest fish alive, and in no rush about it." },
+
+    { "name": "Shortfin Mako Shark","cruise_ms": 1.0, "burst_ms": 18.0, "confidence": "low",
+      "blurb": "Shaped like a torpedo, yet spends most of its life loafing." },
+
+    { "name": "Humpback Whale",     "cruise_ms": 1.3, "burst_ms": 7.5,  "confidence": "high",
+      "blurb": "Crosses entire oceans on migration, singing the whole way." },
+
+    { "name": "Manatee",            "cruise_ms": 1.4, "burst_ms": 6.7,  "confidence": "medium",
+      "blurb": "Drifts at walking pace through warm shallows, grazing." },
+
+    { "name": "Sailfish",           "cruise_ms": 1.8, "burst_ms": 22.0, "confidence": "low",
+      "blurb": "Called the fastest fish alive, but it only ever sprints in short bursts." },
+
+    { "name": "Bottlenose Dolphin", "cruise_ms": 2.5, "burst_ms": 10.3, "confidence": "medium",
+      "blurb": "Fast, curious, and known to surf the wake of passing ships." },
+
+    { "name": "Orca",               "cruise_ms": 3.1, "burst_ms": 13.9, "confidence": "medium",
+      "blurb": "Travels a hundred miles a day, hunting in coordinated pods." }
+  ]
+}
