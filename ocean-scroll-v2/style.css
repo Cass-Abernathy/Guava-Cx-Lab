@@ -1,0 +1,52 @@
+html {
+  height: 8000px;
+  background: linear-gradient(
+    to bottom,
+    #7ec8e3 0%,
+    #2a6f97 15%,
+    #01497c 40%,
+    #012a4a 70%,
+    #000814 100%
+  );
+}
+
+body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #e8f4f8;
+}
+
+/* ==== TEXT ==== */
+
+h1 {
+    margin: 0;
+    padding-top: 40px;
+    text-align: center;
+    font-size: 2rem;
+    position: relative;
+    z-index: 2;
+}
+
+#instructions {
+    text-align: center;
+    font-size: 1rem;
+    position: relative;
+    z-index: 2;
+}
+h1, #instructions {
+  color: #012a4a;
+}
+
+/* ==== the sketch ==== */
+#sketch-holder {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+canvas {
+    display: block;
+    border-radius: 8px;
+}
